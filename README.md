@@ -181,32 +181,6 @@ streamlit run app.py
 
 ---
 
-# 📷 Project Screenshots
-
-### Home Page
-
-(Add Screenshot)
-
----
-
-### User Input Form
-
-(Add Screenshot)
-
----
-
-### AI Recommendation
-
-(Add Screenshot)
-
----
-
-### IBM watsonx Orchestrate Agent
-
-(Add Screenshot)
-
----
-
 # 🌟 Advantages
 
 - Personalized fitness guidance
